@@ -1,0 +1,7 @@
+baseURL = "https://VadimkoSmirnoov.github.io"
+publishDir="docs"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "paper"
+title = "Prod.by Вадим Александрович"
